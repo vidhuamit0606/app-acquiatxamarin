@@ -2,7 +2,7 @@
 
 A simple Xamarin app named *Acquaint*. The app is a simple list of contacts, each of which can be viewed in a detail screen and modified in an edit screen. It runs on iOS 9+, Android 4.2+, and UWP (mobile and desktop).
 
-<img src="https://github.com/xamarinhq/app-acquaint/blob/master/Screenshots/AllScreens_AllPlatforms.jpg" />
+<img src="https://github.com/vidhuamit0606/app-acquiatxamarin/blob/master/Screenshots/AllScreens_AllPlatforms.jpg" />
 
 <!-- 
 ##Build Status
@@ -63,7 +63,7 @@ https://azure.microsoft.com/en-us/documentation/articles/app-service-mobile-wind
 ## Platform-specific UI Features (in native version only)
 | 3D Touch Previewing (iOS) | Shared View Transitions (Android) |
 | --- | --- |
-| <img src="https://github.com/xamarinhq/app-acquaint/blob/master/Screenshots/Acquaint_N_3DTouch.gif" width="300" /> | <img src="https://github.com/xamarinhq/app-acquaint/blob/master/Screenshots/Acquaint_N_SharedViewTransitions.gif" width="300" /> |
+| <img src="https://github.com/vidhuamit0606/app-acquiatxamarin/blob/master/Screenshots/Acquaint_N_3DTouch.gif" width="300" /> | <img src="https://github.com/vidhuamit0606/app-acquiatxamarin/blob/master/Screenshots/Acquaint_N_SharedViewTransitions.gif" width="300" /> |
 
 
 ## Screens
